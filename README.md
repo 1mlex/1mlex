@@ -1,7 +1,7 @@
-#Hello there! Im Somesh (•◡•) /
---Learning Frontend
---Currently learning HTML & CSS
-</br>
+# Hello there! Im Somesh (•◡•) /
+--Learning Frontend </br>
+--Currently learning HTML & CSS</br>
+
 ![](https://github-readme-stats.vercel.app/api?username=1mlex&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
